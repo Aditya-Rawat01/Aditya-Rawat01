@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya-Rawat01
+- 👋 Hi, I’m Aditya Rawat
 - 👀 I’m interested in Web and App dev.
 - 🌱 I’m currently learning Web dev.
 - 💞️ I’m not looking to collaborate on anything( skill level : low)
