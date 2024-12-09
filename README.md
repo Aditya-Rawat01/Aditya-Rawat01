@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aditya Rawat
-- 👀 I’m interested in Web and App dev.
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Web dev.
-- 💞️ I’m not looking to collaborate on anything( skill level : low)
-- 📫 How to reach me (Why?(With disappointment) )
+- 💞️ I’m looking to collaborate on some exciting projects
+- 📫 How to reach me (By mongoose connection string)
 
 <!---
 Aditya-Rawat01/Aditya-Rawat01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
